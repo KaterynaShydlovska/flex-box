@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(190, 184, 184);
+}
+
+.main {
+    /* height: 950px; */
+    display: block;
+    margin: 10px;
+}
+
+img {
+    width: 230px;
+    height: 205px;
+}
+
+.container-flex {
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.container-flex2 {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+.container {
+    background-color: pink;
+    margin-top: 10px;
+}
+
+.img img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img {
+    width: 49%;
+    display: inline-block;
+}
+
+h1 {
+    text-align: center;
+}
